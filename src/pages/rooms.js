@@ -11,7 +11,7 @@ const rooms = () => {
           Return Home
         </Link>
       </Banner>
-    </Hero>
+    </Hero> 
   );
 };
 

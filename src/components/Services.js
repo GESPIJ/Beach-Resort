@@ -8,22 +8,22 @@ export default class Services extends Component {
       {
         icon: <FaCocktail />,
         title: "Free Cocktails",
-        info: "Esto es solo un subtitulo de prueba del establecimiento",
+        info: "Free cocktails, top bartending service, flair bartending shows and more",
       },
       {
         icon: <FaShuttleVan />,
         title: "Free Shuttle",
-        info: "Esto es solo un subtitulo de prueba del establecimiento",
+        info: "Yo don't want to walk? No a problem, we have free shuttle all over the campus",
       },
       {
         icon: <FaBeer />,
         title: "Strongest Beer",
-        info: "Esto es solo un subtitulo de prueba del establecimiento",
+        info: "Strongest beer, more that the german ones, give it a shot",
       },
       {
         icon: <FaHiking />,
         title: "Endless Hiking",
-        info: "Esto es solo un subtitulo de prueba del establecimiento",
+        info: "Hiking activities from novice to advanced guided by certified hiking trainers",
       },
     ],
   };
